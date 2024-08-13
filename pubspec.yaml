@@ -53,7 +53,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   drift_dev: ^2.19.1
-  build_runner: ^2.4.9
+  build_runner: ^2.4.12
   json_serializable: ^6.8.0
 
 
