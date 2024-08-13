@@ -1,9 +1,4 @@
-import 'package:flutter/foundation.dart';
-import 'package:flutter_telegram_crashlytics/tcrash_reporter.dart';
 import 'package:workmanager/workmanager.dart';
-
-import '../cache/lib_database.dart';
-import '../di/lib_di.dart';
 
 // @pragma('vm:entry-point')
 // void callbackDispatcher() {
